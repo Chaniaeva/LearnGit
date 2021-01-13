@@ -5,10 +5,7 @@ Mark,
 Jinyoung, 
 Jackson, 
 Youngjae, 
-Bambam, 
-<<<<<<< Updated upstream
-dan Yugyeom.
-=======
+Bambam,
 dan Yugyeom.
 
 Album mini pertama mereka, Got It?, 
@@ -19,4 +16,3 @@ Entertainment Japan dan memasuki pasar musik Jepang dengan merilis singel
 debut bahasa Jepang berjudul "Around the World". Grup ini kembali ke 
 Korea Selatan satu bulan kemudian untuk merilis album studio pertama mereka,
 Identify. 
->>>>>>> Stashed changes
